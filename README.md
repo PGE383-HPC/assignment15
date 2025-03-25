@@ -1,6 +1,6 @@
 # Homework Assignment 15
 
-![Assignment 15](https://github.com/PGE383-HPC/assignment15-solution/actions/workflows/main.yml/badge.svg)
+![Assignment 15](https://github.com/PGE383-HPC/assignment15/actions/workflows/main.yml/badge.svg)
 
 In [Homework Assignment 9](https://github.com/PGE383-HPC/assignment9) we wrote a program that would process a data file, converting the raw data to true stress and strain, and compute the toughness,  and then in [Homework Assignment 13](https://github.com/PGE383-HPC/assignment13) we extended that code to make it parallel with [MPI.jl](https://juliaparallel.org/MPI.jl/latest/).  In this assignment, we will create another parallel solution this time using [DistributedArrays.jl](https://github.com/JuliaParallel/DistributedArrays.jl).
 
